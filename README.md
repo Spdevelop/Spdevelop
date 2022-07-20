@@ -2,24 +2,5 @@
 
 ![Profile views counter](https://gpvc.arturio.dev/Spdevelop)
 
-- 🔭 I’m currently working on the frontend of FDA POST CENTER THAILAND
-- 🌱 I’m currently learning web performances
-
-[![tisstp's github stats](https://github-readme-stats.vercel.app/api?username=Spdevelop&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spdevelop&hide=php&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**tisstp/tisstp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m Software Engineer in  Toneer Company
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=spdevelop&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
